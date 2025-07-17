@@ -1,0 +1,58 @@
+Rugved Recharla
+Sacramento, CA | (916) 695-0441 | rugvedrecharla@gmail.com | www.linkedin.com/in/rugvedrecharla
+EDUCATION
+Master of Science in Computer Science August 2022 - December 2024
+California State University Sacramento, California, US
+Bachelor of Technology, Computer Science and Engineering August 2017 - June 2021
+Jawaharlal Nehru Technological University, Hyderabad, India
+TECHNICAL SKILLS
+• Programming and Scripting: Python, Java, JavaScript, ReactJS, HTML5/CSS3, SQL, PowerShell
+• Tools & Technologies: AWS, Azure, Docker, Terraform, Kubernetes, Git, APIs, SCCM, Active Directory, JAMF
+• Coursework: Object-Oriented Programming, System Design, Software Debugging and Testing, Data Structures and Algorithms,
+Machine Learning, Data Analytics, Operating Systems, Artificial Intelligence, Software Development Lifecycle (SDLC)
+PROFESSIONAL EXPERIENCE
+IT Specialist
+The Cottonwood School, El Dorado Hills, CA June 2025 – Present
+• Built a custom license management tool integrating APIs from platforms like Zoom, Clever, and Grammarly to track users,
+licenses, and groups - improving resource allocation and software visibility across the school.
+• Working on the migration and redevelopment of the school’s website from a third-party vendor to an in-house platform,
+enhancing control, customization, and long-term cost savings. Managed Google Workspace for Education, automating user
+onboarding/offboarding and optimizing admin workflows to support over 3000 staff and students.
+IT Intern – Infrastructure and Operations Branch May 2024 - March 2025
+California Department of Fish and Wildlife, Sacramento, CA
+• Automated server and cloud infrastructure tasks using PowerShell in Azure, improving deployment efficiency, security, and
+operational reliability. Managed user onboarding, account provisioning, and license allocation through Active Directory and
+Microsoft 365, supporting over 2000 users.
+• Provided technical support for Microsoft Exchange, Entra ID (Azure AD), and Office 365 while collaborating with DevOps
+teams to streamline CI/CD-aligned infrastructure workflows and implement load balancers and Azure Purview for data
+governance.
+IT Technician Jun 2023 – Dec 2024
+California State University, Sacramento, CA
+• Provided front-line IT support to almost 15 departments and 500+ users for desktop issues, utilizing ServiceNow for ticketing
+and tools like SnipeIT, JAMF, Active Directory, and Microsoft Configuration Management Console.
+• Re-imaged Windows and MacOS devices to meet campus standards, ensuring consistent system performance and
+troubleshooting network and hardware/software issues, and offered workstation support to staff and students.
+Transaction Risk Investigator Aug 2021 – Jul 2022
+Amazon, Hyderabad, India
+• Identified fraudulent patterns using data analysis while handling live queues for both the seller and buyer sides, applying
+CTPS procedures. Led beta testing and launch of an internal production tool, collaborating with the development team on
+improving the user interface and solving real-time tool-related issues. Conducted quality audits on seller accounts, initiated a
+project that improved quality by 10%, and mentored a team of four new hires and guided them to meet the quality metrics.
+Software Engineer Intern August 2019 – December 2020
+Viacom18 Media Private Limited, Hyderabad, India
+• Developed responsive web interfaces using HTML, CSS, and JavaScript, integrating APIs for dynamic content. Optimized UI
+components for cross-browser compatibility and performance, ensuring a seamless user experience.
+• Assisted in debugging and enhancing application features, improving overall performance and usability while gaining hands-
+on experience in software development. Conducted technical research and created detailed documentation, including user
+guides and process workflows, to support system understanding and usage.
+RESEARCH AND PROJECTS
+Personalized Drug Safety and Healthcare Provider Recommendation
+• Developed a personalized drug recommendation system using ML models (Random Forest, XGBoost), achieving 97%
+accuracy on a 250k+ medicine dataset, and integrating React, JavaScript, and Python for user interaction. Implemented NLP-
+based symptom-to-disease mapping and geolocation-based doctor recommendations, leveraging Google Places API and web
+scraping to filter specialists by location, ratings, and reviews.
+Personal Appointment Scheduler
+• Developed an AI-powered chatbot using the ChatGPT API, integrated with Google Calendar and Google Docs via GCP APIs
+to automate appointment scheduling. Designed a system to analyze notes in Google Docs and check availability and
+automatically schedule meetings in Google Calendar, automating the workflow for appointment scheduling.
+Video Based Mask Detection: https://journal.ijresm.com/index.php/ijresm/article/view/841
